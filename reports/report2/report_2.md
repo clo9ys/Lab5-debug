@@ -24,8 +24,13 @@
 ```cmd, *args = shlex.split(line.strip())```
 
 ### Доказательства:
+
 ![img.png](debug.png)
+
 **До:**
+
 ![img.png](bug.png)
+
 **После:**
+
 ![img.png](fix.png)

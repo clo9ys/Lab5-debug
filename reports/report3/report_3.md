@@ -27,9 +27,13 @@
 ![img.png](new_exception.png)
 
 ### Доказательства:
+
 **До:**
+
 ![img.png](bug.png)
+
 **После:**
+
 ![img.png](fix1.png)
 
 ![img.png](fix2.png)
