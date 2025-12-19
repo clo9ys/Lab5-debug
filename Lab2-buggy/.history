@@ -1,0 +1,487 @@
+[2025-10-26 23:14:54] ls
+[2025-10-26 23:15:28] ls
+[2025-10-26 23:15:30] cd ..
+[2025-10-26 23:15:36] ls 
+[2025-10-26 23:15:38] ls -l
+[2025-10-26 23:15:42] cat test.py
+[2025-10-27 16:28:21] ls
+[2025-10-27 16:28:27] cd ..
+[2025-10-27 16:29:35] mv rmm src'
+[2025-10-27 16:29:41] ls
+[2025-10-27 16:29:46] exit
+[2025-10-27 16:29:59] mv src' rmm
+[2025-10-27 16:30:04] mv rmm src
+[2025-10-27 16:30:06] exit
+[2025-10-28 13:07:45] ls
+[2025-10-28 13:07:48] ls -l 
+[2025-10-28 13:07:50] cd ..
+[2025-10-28 13:08:28] ls -ol
+[2025-10-28 13:08:31] ls -l
+[2025-10-28 13:08:38] ls -l
+[2025-10-28 13:10:33] ls -l
+[2025-10-28 13:10:41] ls -l
+[2025-10-28 13:10:49] ls -l
+[2025-10-28 13:10:58] ls -l
+[2025-10-28 13:11:13] ls -l
+[2025-10-28 13:11:22] ls -l
+[2025-10-28 13:11:40] ls -l
+[2025-10-28 13:25:44] cp test.py hui.py
+[2025-10-28 13:25:46] exit
+[2025-10-28 13:26:04] cp hui.py test.py
+[2025-10-28 13:26:06] exit
+[2025-10-28 13:27:21] cd ..
+[2025-10-28 13:28:12] cp test.py hui.py
+[2025-10-28 13:28:14] exit
+[2025-10-28 21:51:30] ls
+[2025-10-28 21:51:32] ls -r
+[2025-10-28 21:51:39] exit
+[2025-10-28 21:52:56] ls
+[2025-10-28 21:52:58] exit
+[2025-10-28 22:04:05] ls
+[2025-10-28 22:06:55] cd
+[2025-10-28 22:08:22] l
+[2025-10-28 22:08:23] ls
+[2025-10-28 22:08:26] ls -l
+[2025-10-28 22:08:28] exit
+[2025-10-28 22:09:36] cd
+[2025-10-28 22:12:17] lls
+[2025-10-28 22:12:22] exit
+[2025-10-28 22:16:22] cd dcdc
+[2025-10-28 22:18:03] cd dldld
+[2025-10-28 22:19:01] cd dcdcdc
+[2025-10-28 22:19:13] ls
+[2025-10-28 22:19:46] cd cdcscds
+[2025-10-28 22:21:02] cd dssds
+[2025-10-28 22:27:03] cp -r cdscsdcc src
+[2025-10-28 22:29:16] mv
+[2025-10-28 22:32:58] ls src
+[2025-10-28 22:38:14] mv
+[2025-10-28 22:38:29] mv sdsdfs src
+[2025-10-28 22:38:32] cd dcsdcsd
+[2025-10-28 22:38:37] ls -ll
+[2025-10-28 22:38:40] smsdmsdmlskms
+[2025-10-28 22:38:42] exit
+[2025-10-28 22:38:50] ls
+[2025-10-28 22:38:53] exit
+[2025-10-28 22:47:06] ls
+[2025-10-28 22:47:13] exit
+[2025-10-28 22:47:18] ls
+[2025-10-28 22:47:20] ls
+[2025-10-28 22:47:27] exit
+[2025-10-28 22:48:57] ls
+[2025-10-28 22:49:26] ls
+[2025-10-28 22:49:27] exit
+[2025-10-28 23:05:27] ls
+[2025-10-28 23:05:29] cd
+[2025-10-28 23:09:03] ls
+[2025-10-28 23:09:06] ls -l
+[2025-10-28 23:09:08] cd ..
+[2025-10-28 23:09:59] rm rm_test
+[2025-10-28 23:10:03] exit
+[2025-10-28 23:10:42] cp test.py hui.py
+[2025-10-28 23:10:44] exit
+[2025-10-28 23:11:22] mv test.py hui.py
+[2025-10-28 23:11:24] exit
+[2025-10-28 23:11:43] mv hui.py test.py
+[2025-10-28 23:11:46] exit
+[2025-10-28 23:12:07] ls src
+[2025-10-28 23:12:09] ls
+[2025-10-28 23:12:50] cat test.py
+[2025-10-28 23:13:37] cd dcsdcsdfsd
+[2025-10-28 23:13:40] exit
+[2025-10-28 23:18:05] cp -r rmm src
+[2025-10-28 23:18:06] exit
+[2025-10-28 23:19:13] ls rmm dir
+[2025-10-28 23:19:21] ls "rmm dir"
+[2025-10-29 00:08:22] ls dsd fs
+[2025-10-29 00:10:36] ls
+[2025-10-29 00:10:38] exit
+[2025-10-29 00:17:06] ls
+[2025-10-29 00:17:07] cd ..
+[2025-10-29 00:26:49] rm -r rmm
+[2025-10-29 00:27:23] rm -r rmm
+[2025-10-29 00:34:55] --help
+[2025-10-29 00:37:38] --help ls
+[2025-10-29 00:38:15] --help cd
+[2025-10-29 00:38:47] --help ls
+[2025-10-29 00:52:02] --help ls
+[2025-10-29 00:52:21] --help ls
+[2025-10-29 01:01:25] mv test.py rm_test
+[2025-10-29 01:01:28] exit
+[2025-10-29 01:02:23] mv test2.py test.py
+[2025-10-29 01:02:26] exit
+[2025-10-29 01:03:24] mv test.py test2.py
+[2025-10-29 01:03:26] exit
+[2025-10-29 01:03:51] mv test2.py test.py
+[2025-10-29 01:03:52] exit
+[2025-10-29 01:12:33] --help
+[2025-10-29 01:13:01] --help
+[2025-10-29 01:13:20] --help
+[2025-10-29 01:21:38] --help
+[2025-10-29 01:21:47] --help cd
+[2025-10-29 01:22:30] --help ls
+[2025-10-29 01:22:38] --help mv
+[2025-10-29 01:22:52] --help mv
+[2025-10-29 13:46:15] ls rmm dir
+[2025-10-29 13:51:12] --help
+[2025-10-29 13:51:17] --help ls
+[2025-10-29 14:13:11] ls
+[2025-10-29 14:13:14] ls -l
+[2025-10-29 14:13:17] cd ..
+[2025-10-29 14:13:33] ls
+[2025-10-29 14:13:37] cd ..
+[2025-10-29 14:14:32] mv rm_test src
+[2025-10-29 14:14:35] exit
+[2025-10-29 14:14:44] cd src
+[2025-10-29 14:18:19] --help
+[2025-10-29 14:18:31] ls
+[2025-10-29 14:20:32] --help ls
+[2025-10-29 14:21:10] cd ..
+[2025-10-29 14:49:00] cd ..
+[2025-10-29 15:20:14] ls "rmm dir"
+[2025-10-29 15:21:00] ls rmm dir
+[2025-10-29 15:21:04] ls "rmm dir"
+[2025-10-29 15:32:19] rm test.py
+[2025-10-29 15:32:21] exit
+[2025-10-29 15:32:59] rm rm_test
+[2025-10-29 15:33:01] exit
+[2025-10-29 15:34:15] ls dsds
+[2025-10-29 15:38:12] ls sdasdasd
+[2025-10-29 15:39:54] sdasd
+[2025-10-29 15:47:19] sdfsdfsd
+[2025-10-29 15:47:59] yfhhf
+[2025-10-29 15:48:31] jhgjgj
+[2025-10-29 15:49:04] gjjjkghj
+[2025-10-29 15:49:25] exi
+[2025-10-29 15:49:27] exit
+[2025-10-29 15:49:45] ls
+[2025-10-29 15:50:43] ls
+[2025-10-29 15:51:25] ls
+[2025-10-29 15:51:36] ls -l
+[2025-10-29 15:52:12] ls -l
+[2025-10-29 15:53:38] ls -l
+[2025-10-29 15:53:40] ls dsf asd a
+[2025-10-29 16:07:30] daa;lsfa
+[2025-10-29 22:55:23] v hgv
+[2025-10-29 22:55:27] exit
+[2025-10-30 10:43:02] cd ..
+[2025-10-30 10:43:12] cd
+[2025-10-30 17:50:39] ls
+[2025-10-30 17:50:45] exit
+[2025-10-30 18:31:25] cat test.py main.py
+[2025-10-30 18:33:23] cat test.py main.py
+[2025-10-30 18:33:58] cat test.py main.py
+[2025-10-30 18:34:22] cat test.py main.py
+[2025-10-30 18:34:58] cat test.py main.py
+[2025-10-31 10:47:34] ды
+[2025-10-31 10:47:36] ls
+[2025-10-31 10:48:38] cp -r "rmm dir" src
+[2025-10-31 10:48:41] exit
+[2025-10-31 10:49:54] cp -r "rmm dir" src
+[2025-10-31 10:49:56] exit
+[2025-10-31 10:50:17] cp -r "rmm dir" src
+[2025-10-31 10:50:19] exit
+[2025-10-31 10:56:36] ls
+[2025-10-31 11:03:08] ls
+[2025-10-31 11:03:09] sdmclsdm
+[2025-10-31 11:04:23] ls
+[2025-10-31 11:04:25] ls -l
+[2025-10-31 11:04:26] ms;lfksldfs
+[2025-10-31 11:05:52] ls
+[2025-10-31 11:06:02] dlksl;d
+[2025-10-31 11:15:23] ls
+[2025-10-31 11:15:24] ls -l
+[2025-10-31 11:15:25]  la;dal;sd
+[2025-10-31 11:15:28] ls dsda
+[2025-10-31 11:16:33] rm -r "rmm dir"
+[2025-10-31 11:21:11] exit
+[2025-10-31 11:22:13] rm -r "rmm dir"
+[2025-10-31 11:22:41] rm -r "rmm dir"
+[2025-10-31 11:29:09] ls -r
+[2025-10-31 11:54:27] ls
+[2025-10-31 11:54:29] cd ..
+[2025-10-31 18:25:29] ls
+[2025-10-31 18:26:00] ls
+[2025-10-31 18:26:44] ls
+[2025-10-31 18:29:57] ls
+[2025-10-31 18:30:28] ls
+[2025-10-31 18:31:21] pwd
+[2025-10-31 18:33:19] cd /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-6/test_ls0
+[2025-10-31 18:39:24] cd /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-7/test_ls0
+[2025-10-31 18:40:14] cd /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-8/test_ls0
+[2025-10-31 18:42:59] cd /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-9/test_ls0
+[2025-10-31 18:46:00] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-10/test_ls0
+[2025-10-31 19:08:26] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-11/test_ls0
+[2025-10-31 19:09:37] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-12/test_ls0
+[2025-10-31 19:10:11] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-13/test_ls0
+[2025-10-31 19:10:37] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-14/test_ls0
+[2025-10-31 19:41:15] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-15/test_ls0
+[2025-10-31 19:42:56] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-16/test_ls0
+[2025-10-31 19:43:33] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-17/test_ls0
+[2025-10-31 19:46:11] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-18/test_ls0
+[2025-10-31 19:46:31] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-19/test_ls0
+[2025-10-31 19:51:55] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-20/test_ls0
+[2025-10-31 19:55:16] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-22/test_ls0
+[2025-10-31 19:55:45] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-23/test_ls0
+[2025-10-31 19:57:00] rm -r "rmm dir"
+[2025-10-31 19:57:17] rm test.py
+[2025-10-31 19:57:20] exit
+[2025-10-31 20:05:54] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-24/test_ls0
+[2025-10-31 20:06:02] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-25/test_ls0
+[2025-10-31 21:56:32] rm
+[2025-10-31 21:56:48] cat
+[2025-10-31 21:59:06] cat 
+[2025-10-31 21:59:08] cat
+[2025-10-31 22:00:10] mv
+[2025-10-31 22:00:48] cat
+[2025-10-31 22:00:55] zip csc scs scd
+[2025-10-31 22:08:48] zip zip_tests zip_arch.zip
+[2025-10-31 22:08:50] exit
+[2025-10-31 22:09:19] unzip zip_arch.zip
+[2025-10-31 22:09:21] exit
+[2025-10-31 22:14:42] zip zip_tests zip_arch
+[2025-10-31 22:14:45] exit
+[2025-10-31 22:15:00] unzip zip_arch
+[2025-10-31 22:15:03] exit
+[2025-10-31 22:15:32] zip zip_tests zip_arch.zip
+[2025-10-31 22:15:34] exit
+[2025-10-31 22:15:46] unzip zip_arch.zip
+[2025-10-31 22:15:48] exit
+[2025-10-31 22:16:17] unzip zip_arch.zip
+[2025-10-31 22:16:18] exit
+[2025-10-31 22:16:35] unzip zip_arch.zip
+[2025-10-31 22:16:36] exit
+[2025-10-31 22:16:53] rm zip_arch.zip
+[2025-10-31 22:17:11] mv zip_tests tar_tests
+[2025-10-31 22:17:13] exit
+[2025-10-31 22:22:09] zip tar_tests
+[2025-10-31 22:33:40] tar tar_tests tar_arc.tar.gz
+[2025-10-31 22:33:42] exit
+[2025-10-31 22:34:09] rm -r tar_tests
+[2025-10-31 22:34:13] exit
+[2025-10-31 22:34:32] untar tar_arc.tar.gz
+[2025-10-31 22:34:35] exit
+[2025-10-31 22:35:48] tm test.py
+[2025-10-31 22:35:57] rm test.py
+[2025-10-31 22:35:59] exit
+[2025-10-31 22:39:16] rm test.py
+[2025-10-31 22:39:35] rm test.py
+[2025-10-31 22:39:38] exit
+[2025-11-01 00:00:20] cat src
+[2025-11-01 00:46:14] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-26/test_ls0
+[2025-11-01 00:49:31] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-27/test_ls0
+[2025-11-01 00:51:06] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-28/test_ls0
+[2025-11-01 01:11:41] cd sdcac
+[2025-11-01 15:25:34] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-29/test_ls0
+[2025-11-01 15:26:57] ls /private/var/folders/jj/ylgf1yy16z7fr_52tddngf4w0000gn/T/pytest-of-maksimstolpovskiy/pytest-30/test_ls0
+[2025-11-01 15:56:06] cd d;s;d
+[2025-11-01 15:56:15] cd test_shell.py
+[2025-11-01 15:58:04] cd test_shell.py
+[2025-11-01 15:58:26] cd test_shell.py
+[2025-11-01 15:58:39] cd src tests
+[2025-11-01 17:57:42] cd file1.txt
+[2025-11-01 17:57:42] cd file2.py
+[2025-11-01 18:07:44] cd file1.txt
+[2025-11-01 18:07:44] cd file2.py
+[2025-11-01 18:08:44] cd file1.txt
+[2025-11-01 18:08:44] cd file2.py
+[2025-11-01 18:09:28] cd file1.txt
+[2025-11-01 18:09:28] cd file2.py
+[2025-11-01 18:10:43] cd file1.txt
+[2025-11-01 18:10:43] cd file2.py
+[2025-11-01 18:11:22] cat tests
+[2025-11-01 18:12:14] cd file1.txt
+[2025-11-01 18:12:14] cd file2.py
+[2025-11-01 18:14:45] cd src tests
+[2025-11-01 18:14:52] cd file1.txt
+[2025-11-01 18:14:52] cd file2.py
+[2025-11-01 18:14:52] cd src tests
+[2025-11-01 18:17:05] cd file1.txt
+[2025-11-01 18:17:05] cd file2.py
+[2025-11-01 18:17:05] cd src tests
+[2025-11-01 18:17:57] cd file1.txt
+[2025-11-01 18:17:57] cd file2.py
+[2025-11-01 18:17:57] cd src tests
+[2025-11-01 18:18:22] cd file1.txt
+[2025-11-01 18:18:22] cd file2.py
+[2025-11-01 18:18:22] cd src tests
+[2025-11-01 18:19:28] cd file1.txt
+[2025-11-01 18:19:28] cd file2.py
+[2025-11-01 18:19:28] cd src tests
+[2025-11-01 18:19:56] cd file1.txt
+[2025-11-01 18:19:56] cd file2.py
+[2025-11-01 18:19:56] cd src tests
+[2025-11-01 18:20:47] cd file1.txt
+[2025-11-01 18:20:47] cd file2.py
+[2025-11-01 18:20:47] cd src tests
+[2025-11-01 18:21:30] cd file1.txt
+[2025-11-01 18:21:30] cd file2.py
+[2025-11-01 18:21:30] cd src tests
+[2025-11-01 18:33:24] cd file1.txt
+[2025-11-01 18:33:24] cd file2.py
+[2025-11-01 18:33:24] cd src tests
+[2025-11-01 18:38:25] cd file1.txt
+[2025-11-01 18:38:25] cd file2.py
+[2025-11-01 18:38:25] cd src tests
+[2025-11-01 18:40:47] cd file1.txt
+[2025-11-01 18:40:47] cd file2.py
+[2025-11-01 18:40:47] cd src tests
+[2025-11-01 18:40:47] cd file1.txt
+[2025-11-01 18:40:47] cd file2.py
+[2025-11-01 18:40:47] cd src tests
+[2025-11-01 18:40:52] cd file1.txt
+[2025-11-01 18:40:52] cd file2.py
+[2025-11-01 18:40:52] cd src tests
+[2025-11-01 18:40:52] cd file1.txt
+[2025-11-01 18:40:52] cd file2.py
+[2025-11-01 18:40:52] cd src tests
+[2025-11-01 18:42:50] cd file1.txt
+[2025-11-01 18:42:50] cd file2.py
+[2025-11-01 18:42:50] cd src tests
+[2025-11-01 18:42:50] cd file1.txt
+[2025-11-01 18:42:50] cd file2.py
+[2025-11-01 18:42:50] cd src tests
+[2025-11-01 18:42:58] cd file1.txt
+[2025-11-01 18:42:58] cd file2.py
+[2025-11-01 18:42:58] cd src tests
+[2025-11-01 18:42:59] cd file1.txt
+[2025-11-01 18:42:59] cd file2.py
+[2025-11-01 18:42:59] cd src tests
+[2025-11-01 18:43:02] cd file1.txt
+[2025-11-01 18:43:02] cd file2.py
+[2025-11-01 18:43:02] cd src tests
+[2025-11-01 18:46:04] cd file1.txt
+[2025-11-01 18:46:04] cd file2.py
+[2025-11-01 18:46:04] cd src tests
+[2025-11-01 18:46:23] cd file1.txt
+[2025-11-01 18:46:23] cd file2.py
+[2025-11-01 18:46:23] cd src tests
+[2025-11-01 18:48:36] cd file1.txt
+[2025-11-01 18:48:36] cd file2.py
+[2025-11-01 18:48:36] cd src tests
+[2025-11-01 18:48:57] cd file1.txt
+[2025-11-01 18:48:57] cd file2.py
+[2025-11-01 18:48:57] cd src tests
+[2025-11-01 18:49:11] cd file1.txt
+[2025-11-01 18:49:11] cd file2.py
+[2025-11-01 18:49:11] cd src tests
+[2025-11-01 19:09:55] cd file1.txt
+[2025-11-01 19:09:55] cd file2.py
+[2025-11-01 19:09:55] cd src tests
+[2025-11-01 19:14:24] cd file1.txt
+[2025-11-01 19:14:24] cd file2.py
+[2025-11-01 19:14:24] cd src tests
+[2025-11-01 19:15:27] cd file1.txt
+[2025-11-01 19:15:27] cd file2.py
+[2025-11-01 19:15:28] cd src tests
+[2025-11-01 19:16:10] ls -l tests
+[2025-11-01 19:16:29] cd file1.txt
+[2025-11-01 19:16:29] cd file2.py
+[2025-11-01 19:16:29] cd src tests
+[2025-11-01 19:19:51] cd file1.txt
+[2025-11-01 19:19:51] cd file2.py
+[2025-11-01 19:19:51] cd src tests
+[2025-11-01 19:20:17] cd file1.txt
+[2025-11-01 19:20:17] cd file2.py
+[2025-11-01 19:20:17] cd src tests
+[2025-11-01 19:20:27] cd file1.txt
+[2025-11-01 19:20:27] cd file2.py
+[2025-11-01 19:20:27] cd src tests
+[2025-11-01 19:22:32] cd file1.txt
+[2025-11-01 19:22:32] cd file2.py
+[2025-11-01 19:22:32] cd src tests
+[2025-11-01 19:24:07] cd file1.txt
+[2025-11-01 19:24:07] cd file2.py
+[2025-11-01 19:24:07] cd src tests
+[2025-11-01 19:30:31] cd file1.txt
+[2025-11-01 19:30:31] cd file2.py
+[2025-11-01 19:30:31] cd src tests
+[2025-11-01 19:36:22] cd file1.txt
+[2025-11-01 19:36:22] cd file2.py
+[2025-11-01 19:36:22] cd src tests
+[2025-11-01 19:38:20] cd file1.txt
+[2025-11-01 19:38:20] cd file2.py
+[2025-11-01 19:38:20] cd src tests
+[2025-11-01 20:24:04] cd file1.txt
+[2025-11-01 20:24:04] cd file2.py
+[2025-11-01 20:24:04] cd src tests
+[2025-11-01 20:25:24] cd file1.txt
+[2025-11-01 20:25:24] cd file2.py
+[2025-11-01 20:25:24] cd src tests
+[2025-11-01 20:30:08] cat unknown_file.txt
+[2025-11-01 20:30:08] cd file1.txt
+[2025-11-01 20:30:08] cd file2.py
+[2025-11-01 20:30:08] cd src tests
+[2025-11-01 20:30:31] cat unknown_file.txt
+[2025-11-01 20:30:31] cd file1.txt
+[2025-11-01 20:30:31] cd file2.py
+[2025-11-01 20:30:31] cd src tests
+[2025-11-01 20:30:43] cat unknown_file.txt
+[2025-11-01 20:30:43] cd file1.txt
+[2025-11-01 20:30:43] cd file2.py
+[2025-11-01 20:30:43] cd src tests
+[2025-11-01 20:31:36] cat unknown_file.txt
+[2025-11-01 20:31:36] cd file1.txt
+[2025-11-01 20:31:36] cd file2.py
+[2025-11-01 20:31:36] cd src tests
+[2025-11-01 21:35:21] zip zip_test zippo.zip
+[2025-11-01 21:35:23] exit
+[2025-11-01 21:35:38] unzip zip_test
+[2025-11-01 21:35:48] unzip main.py
+[2025-11-01 21:37:56] untar main
+[2025-11-01 21:38:00] untar main.py
+[2025-11-01 21:39:40] unzip main
+[2025-11-01 21:42:18] unzip main
+[2025-11-01 21:42:25] untar main
+[2025-11-01 21:42:34] exit
+[2025-11-01 21:42:39] cat unknown_file.txt
+[2025-11-01 21:42:39] cd file1.txt
+[2025-11-01 21:42:39] cd file2.py
+[2025-11-01 21:42:39] cd src tests
+[2025-11-01 23:06:15] grep -r -i "error.*[0-9]+" src/ main.py
+[2025-11-01 23:17:58] cat unknown_file.txt
+[2025-11-01 23:17:58] cd file1.txt
+[2025-11-01 23:17:58] cd file2.py
+[2025-11-01 23:17:58] cd src tests
+[2025-11-01 23:20:02] grep -r -i "error.*[0-9]+" src/ main.py
+[2025-11-01 23:20:21] grep -r -i "error.*[0-9]+" main.py
+[2025-11-01 23:20:46] grep -r -i "except" main.py
+[2025-11-01 23:20:58] grep "except" main.py
+[2025-11-01 23:25:56] grep "cmd" main.py
+[2025-11-01 23:33:00] cat unknown_file.txt
+[2025-11-01 23:33:00] cd file1.txt
+[2025-11-01 23:33:00] cd file2.py
+[2025-11-01 23:33:00] cd src tests
+[2025-11-01 23:35:28] cat unknown_file.txt
+[2025-11-01 23:35:28] cd file1.txt
+[2025-11-01 23:35:28] cd file2.py
+[2025-11-01 23:35:28] cd src tests
+[2025-11-01 23:38:19] cat unknown_file.txt
+[2025-11-01 23:38:19] cd file1.txt
+[2025-11-01 23:38:19] cd file2.py
+[2025-11-01 23:38:19] cd src tests
+[2025-11-01 23:38:29] cat unknown_file.txt
+[2025-11-01 23:38:29] cd file1.txt
+[2025-11-01 23:38:29] cd file2.py
+[2025-11-01 23:38:29] cd src tests
+[2025-11-01 23:43:26] grep "asd" main.py
+[2025-11-01 23:43:31] cat unknown_file.txt
+[2025-11-01 23:43:31] cd file1.txt
+[2025-11-01 23:43:31] cd file2.py
+[2025-11-01 23:43:31] cd src tests
+[2025-11-01 23:45:18] cat unknown_file.txt
+[2025-11-01 23:45:18] cd file1.txt
+[2025-11-01 23:45:18] cd file2.py
+[2025-11-01 23:45:18] cd src tests
+[2025-11-01 23:45:49] cat unknown_file.txt
+[2025-11-01 23:45:49] cd file1.txt
+[2025-11-01 23:45:49] cd file2.py
+[2025-11-01 23:45:49] cd src tests
+[2025-11-01 23:46:18] cat unknown_file.txt
+[2025-11-01 23:46:18] cd file1.txt
+[2025-11-01 23:46:18] cd file2.py
+[2025-11-01 23:46:18] cd src tests
+[2025-11-01 23:46:38] cat unknown_file.txt
+[2025-11-01 23:46:38] cd file1.txt
+[2025-11-01 23:46:38] cd file2.py
+[2025-11-01 23:46:38] cd src tests

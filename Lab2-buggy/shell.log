@@ -1,0 +1,95 @@
+[2025-10-31 21:59:06] [INFO]  - cat 
+[2025-10-31 21:59:08] [INFO]  - cat
+[2025-10-31 22:00:10] [INFO]  - mv
+[2025-10-31 22:00:10] [ERROR]  - not enough arguments
+[2025-10-31 22:00:48] [INFO]  - cat
+[2025-10-31 22:00:48] [ERROR]  - Not enough arguments
+[2025-10-31 22:00:55] [INFO]  - zip csc scs scd
+[2025-10-31 22:00:55] [ERROR]  - Too much arguments
+[2025-10-31 22:08:48] [INFO]  - zip zip_tests zip_arch.zip
+[2025-10-31 22:08:50] [INFO]  - exit
+[2025-10-31 22:09:19] [INFO]  - unzip zip_arch.zip
+[2025-10-31 22:09:21] [INFO]  - exit
+[2025-10-31 22:14:42] [INFO]  - zip zip_tests zip_arch
+[2025-10-31 22:14:45] [INFO]  - exit
+[2025-10-31 22:15:00] [INFO]  - unzip zip_arch
+[2025-10-31 22:15:03] [INFO]  - exit
+[2025-10-31 22:15:32] [INFO]  - zip zip_tests zip_arch.zip
+[2025-10-31 22:15:34] [INFO]  - exit
+[2025-10-31 22:15:46] [INFO]  - unzip zip_arch.zip
+[2025-10-31 22:15:48] [INFO]  - exit
+[2025-10-31 22:16:17] [INFO]  - unzip zip_arch.zip
+[2025-10-31 22:16:18] [INFO]  - exit
+[2025-10-31 22:16:35] [INFO]  - unzip zip_arch.zip
+[2025-10-31 22:16:36] [INFO]  - exit
+[2025-10-31 22:16:53] [INFO]  - rm zip_arch.zip
+[2025-10-31 22:17:11] [INFO]  - mv zip_tests tar_tests
+[2025-10-31 22:17:13] [INFO]  - exit
+[2025-10-31 22:22:09] [INFO]  - zip tar_tests
+[2025-10-31 22:22:09] [ERROR]  - Not enough arguments
+[2025-10-31 22:33:40] [INFO]  - tar tar_tests tar_arc.tar.gz
+[2025-10-31 22:33:42] [INFO]  - exit
+[2025-10-31 22:34:09] [INFO]  - rm -r tar_tests
+[2025-10-31 22:34:11] [INFO] Directory was delete
+[2025-10-31 22:34:13] [INFO]  - exit
+[2025-10-31 22:34:32] [INFO]  - untar tar_arc.tar.gz
+[2025-10-31 22:34:35] [INFO]  - exit
+[2025-10-31 22:35:48] [INFO]  - tm test.py
+[2025-10-31 22:35:48] [ERROR]  - unknown command
+[2025-10-31 22:35:57] [INFO]  - rm test.py
+[2025-10-31 22:35:59] [INFO]  - exit
+[2025-10-31 22:39:16] [INFO]  - rm test.py
+[2025-10-31 22:39:16] [ERROR]  - wrong argument
+[2025-10-31 22:39:35] [INFO]  - rm test.py
+[2025-10-31 22:39:38] [INFO]  - exit
+[2025-11-01 00:00:20] [INFO]  - cat src
+[2025-11-01 00:00:20] [ERROR]  - wrong argument
+[2025-11-01 01:11:41] [INFO]  - cd sdcac
+[2025-11-01 01:11:41] [ERROR]  - wrong argument
+[2025-11-01 15:56:06] [INFO]  - cd d;s;d
+[2025-11-01 15:56:06] [ERROR]  - wrong argument
+[2025-11-01 15:56:15] [INFO]  - cd test_shell.py
+[2025-11-01 15:56:15] [ERROR]  - wrong argument
+[2025-11-01 15:58:04] [INFO]  - cd test_shell.py
+[2025-11-01 15:58:04] [ERROR]  - wrong argument
+[2025-11-01 15:58:26] [INFO]  - cd test_shell.py
+[2025-11-01 15:58:26] [ERROR]  - wrong argument
+[2025-11-01 15:58:39] [INFO]  - cd src tests
+[2025-11-01 18:11:22] [INFO]  - cat tests
+[2025-11-01 18:14:45] [INFO]  - cd src tests
+[2025-11-01 18:14:45] [ERROR]  - Too much arguments
+[2025-11-01 19:16:10] [INFO]  - ls -l tests
+[2025-11-01 21:35:21] [INFO]  - zip zip_test zippo.zip
+[2025-11-01 21:35:23] [INFO]  - exit
+[2025-11-01 21:35:38] [INFO]  - unzip zip_test
+[2025-11-01 21:35:38] [ERROR]  - [Errno 21] Is a directory: 'zip_test'
+[2025-11-01 21:35:48] [INFO]  - unzip main.py
+[2025-11-01 21:37:56] [INFO]  - untar main
+[2025-11-01 21:37:56] [ERROR]  - wrong argument
+[2025-11-01 21:38:00] [INFO]  - untar main.py
+[2025-11-01 21:39:40] [INFO]  - unzip main
+[2025-11-01 21:42:18] [INFO]  - unzip main
+[2025-11-01 21:42:18] [ERROR]  - main is not a zip file
+[2025-11-01 21:42:25] [INFO]  - untar main
+[2025-11-01 21:42:25] [ERROR]  - main is not a gzip file
+[2025-11-01 21:42:34] [INFO]  - exit
+[2025-11-01 23:06:15] [INFO]  - grep -r -i "error.*[0-9]+" src/ main.py
+[2025-11-01 23:20:02] [INFO]  - grep -r -i "error.*[0-9]+" src/ main.py
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:02] [ERROR]  - error with file
+[2025-11-01 23:20:21] [INFO]  - grep -r -i "error.*[0-9]+" main.py
+[2025-11-01 23:20:46] [INFO]  - grep -r -i "except" main.py
+[2025-11-01 23:20:58] [INFO]  - grep "except" main.py
+[2025-11-01 23:25:56] [INFO]  - grep "cmd" main.py
+[2025-11-01 23:43:26] [INFO]  - grep "asd" main.py
