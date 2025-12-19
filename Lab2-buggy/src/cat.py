@@ -22,7 +22,7 @@ def cat(args: list[str]):
         if not file1.exists():
             raise FileNotFoundError("No such file")
         if not file1.is_file():
-            raise IsADirectoryError(f"{file1} is not a file")
+            raise IsADirectoryError(f"{arg} is not a file")
         # открываем файл и выводим его содержимое
         with open(file1, "r", encoding="UTF-8") as f:
             print(f"{arg}:\n\n", f.read())

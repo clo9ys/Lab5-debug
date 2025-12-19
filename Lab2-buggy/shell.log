@@ -93,3 +93,49 @@
 [2025-11-01 23:20:58] [INFO]  - grep "except" main.py
 [2025-11-01 23:25:56] [INFO]  - grep "cmd" main.py
 [2025-11-01 23:43:26] [INFO]  - grep "asd" main.py
+[2025-12-19 23:30:28] [INFO]  - cd ..
+[2025-12-19 23:30:32] [INFO]  - cd ..
+[2025-12-19 23:30:35] [INFO]  - exit
+[2025-12-19 23:30:49] [INFO]  - cd ..
+[2025-12-19 23:30:53] [INFO]  - cd ..
+[2025-12-19 23:31:01] [INFO]  - exit
+[2025-12-19 23:31:28] [INFO]  - if cd.:
+[2025-12-19 23:31:28] [ERROR]  - unknown command
+[2025-12-19 23:31:28] [INFO]  -     xnj
+[2025-12-19 23:31:28] [ERROR]  - unknown command
+[2025-12-19 23:31:42] [INFO]  - cd ..
+[2025-12-19 23:56:50] [INFO]  - cd ..
+[2025-12-20 00:00:41] [INFO]  - cd .. 
+[2025-12-20 00:01:51] [INFO]  - cd .. 
+[2025-12-20 00:05:09] [INFO]  - cd ..
+[2025-12-20 00:15:32] [INFO]  - exir
+[2025-12-20 00:15:32] [ERROR]  - unknown command
+[2025-12-20 00:15:34] [INFO]  - exit
+[2025-12-20 00:16:16] [INFO]  - ls
+[2025-12-20 00:16:22] [INFO]  - ls -a
+[2025-12-20 00:16:22] [ERROR]  - wrong argument
+[2025-12-20 00:16:41] [INFO]  - cd ~
+[2025-12-20 00:21:31] [INFO]  - уexit
+[2025-12-20 00:21:31] [ERROR]  - unknown command
+[2025-12-20 00:21:35] [INFO]  - exit
+[2025-12-20 00:39:32] [INFO]  - ls "test dir"
+[2025-12-20 00:40:40] [ERROR]  - wrong argument
+[2025-12-20 00:45:39] [INFO]  - ls "test dir"
+[2025-12-20 01:21:54] [INFO]  - cat random_file_for_bug
+[2025-12-20 01:21:54] [ERROR] Error
+[2025-12-20 01:23:15] [INFO]  - cat random_file_for_bug
+[2025-12-20 01:23:15] [ERROR]  - wrong argument
+[2025-12-20 01:23:48] [INFO]  - cat "test dir"
+[2025-12-20 01:23:48] [ERROR]  - /Users/maksimstolpovskiy/PycharmProjects/Lab5-debug/Lab2-buggy/test dir is not a file
+[2025-12-20 01:24:28] [INFO]  - cat "test dir"
+[2025-12-20 01:24:28] [ERROR]  - /Users/maksimstolpovskiy/PycharmProjects/Lab5-debug/Lab2-buggy/test dir is not a file
+[2025-12-20 01:25:06] [INFO]  - cat "test dir"
+[2025-12-20 01:25:06] [ERROR]  - test dir is not a file
+[2025-12-20 01:27:33] [INFO]  - cat "test dir"
+[2025-12-20 01:27:33] [ERROR]  - test dir is not a file
+[2025-12-20 01:31:20] [INFO]  - git add .
+[2025-12-20 01:31:20] [ERROR]  - unknown command
+[2025-12-20 02:03:35] [INFO]  - cd ..
+[2025-12-20 02:03:40] [INFO]  - git add .
+[2025-12-20 02:03:40] [ERROR]  - unknown command
+[2025-12-20 02:03:46] [INFO]  - exit
