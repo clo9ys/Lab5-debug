@@ -139,3 +139,28 @@
 [2025-12-20 02:03:40] [INFO]  - git add .
 [2025-12-20 02:03:40] [ERROR]  - unknown command
 [2025-12-20 02:03:46] [INFO]  - exit
+[2025-12-20 23:09:06] [INFO]  - mv main.py test dir
+[2025-12-20 23:09:06] [ERROR]  - wrong argument
+[2025-12-20 23:09:13] [INFO]  - exit
+[2025-12-20 23:27:20] [INFO]  - mv test_file "test dir"
+[2025-12-20 23:27:24] [ERROR]  - wrong argument
+[2025-12-20 23:28:31] [INFO]  - mv test_file "test dir"
+[2025-12-20 23:28:34] [ERROR]  - wrong argument
+[2025-12-20 23:28:46] [INFO]  - mv test_file "test dir"
+[2025-12-20 23:30:04] [INFO]  - mv test_file "test dir"
+[2025-12-21 00:58:11] [INFO]  - cp test_file test_file2 "test dir"
+[2025-12-21 00:58:18] [INFO]  - exit
+[2025-12-21 01:19:57] [INFO]  - cd 
+[2025-12-21 01:19:57] [ERROR]  - list index out of range
+[2025-12-21 01:20:01] [INFO]  - cd ~
+[2025-12-21 01:20:01] [ERROR]  - wrong argument
+[2025-12-21 01:20:09] [INFO]  - exit
+[2025-12-21 01:27:51] [INFO]  - cd
+[2025-12-21 01:27:57] [ERROR]  - list index out of range
+[2025-12-21 01:28:11] [INFO]  - cd
+[2025-12-21 01:28:11] [ERROR]  - list index out of range
+[2025-12-21 01:28:22] [INFO]  - exit
+[2025-12-21 01:28:25] [INFO]  - cd
+[2025-12-21 01:29:21] [INFO]  - exit
+[2025-12-21 01:29:26] [INFO]  - cd ~
+[2025-12-21 01:30:46] [INFO]  - exit
